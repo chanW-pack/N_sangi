@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<getProductListResponse>
+  <requestId>e837d207-bd44-4041-9120-338b578cacd9</requestId>
+  <returnCode>0</returnCode>
+  <returnMessage>success</returnMessage>
+  <totalRows>2</totalRows>
+  <productList>
+    <product>
+      <productItemKind>
+        <code>VSVR</code>
+        <codeName>Server (VPC)</codeName>
+      </productItemKind>
+      <productItemKindDetail>
+        <code>BM</code>
+        <codeName>BareMetal</codeName>
+      </productItemKindDetail>
+      <productCode>SVR.VSVR.BM.C024.M128.LOCAL.SSD.B3840.G001</productCode>
+      <productName>Single Intel Xeon Gold 6248R (3.0GHz) 24 Cores 128GB RAM, 8 x 480GB SSD</productName>
+      <productDescription>Single Intel Xeon Gold 6248R (3.0GHz) 24 Cores 128GB RAM, 8 x 480GB SSD</productDescription>
+      <softwareType/>
+    </product>
+    <product>
+      <productItemKind>
+        <code>VSVR</code>
+        <codeName>Server (VPC)</codeName>
+      </productItemKind>
+      <productItemKindDetail>
+        <code>BM</code>
+        <codeName>BareMetal</codeName>
+      </productItemKindDetail>
+      <productCode>SVR.VSVR.BM.C048.M384.LOCAL.SSD.B3840.G001</productCode>
+      <productName>Dual Intel Xeon Gold 6248R(3.0GHz), 48 cores, 384GB RAM, 8 x 480GB SSD</productName>
+      <productDescription>Dual Intel Xeon Gold 6248R(3.0GHz), 48 cores, 384GB RAM, 8 x 480GB SSD</productDescription>
+      <softwareType/>
+    </product>
+  </productList>
+</getProductListResponse>
